@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning golong
-- 💬 Ask me about 涩涩
+- 🌱 我正苦于读研中
+- 💬 如果有 **涩涩** 直接发我
 - 📫 How to reach me: woshi123qaq@gmail.com
 
 
