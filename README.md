@@ -2,6 +2,7 @@
 - 🌱 我正苦于读研中
 - 💬 如果有 **涩涩** 直接发我
 - 📫 How to reach me: woshi123qaq@gmail.com
+- 上班写代码是工作，下班写代码是生活
 
 
 [![aliveriver's GitHub](https://github-readme-stats.vercel.app/api?username=aliveriver)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/aliveriver/aliveriver/))
