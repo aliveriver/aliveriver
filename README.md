@@ -1,7 +1,8 @@
 ### Hi there 👋
-- 🌱 我正苦于读研中
+- 🌱 我正苦于读研中，方向是世界模型x具身智能
 - 💬 如果有 **涩涩** 直接发我
 - 📫 How to reach me: woshi123qaq@gmail.com
+- 博客：aliveriver.xyz
 - 上班写代码是工作，下班写代码是生活
 
 
